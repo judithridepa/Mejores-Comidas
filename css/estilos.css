@@ -1,0 +1,39 @@
+h1 {
+  font-family: Cambria;
+  font-size: 1.6em;
+  color: red;
+}
+h4 {
+  font-family: Baskerville Old Face;
+  font-size: 1.1em;
+  background-color: #ffcc99;
+}
+h3 {
+  font-family: Arial Black;
+  font-size: 1em;
+}
+h2 {
+  font-size: 2em;
+  font-family: Agency FB;
+  color: black;
+}
+h5 {
+  font-size: 1.1em;
+  font-family: Baskerville Old Face;
+  background-color: #ffcccc;
+}
+a {
+  font-family: Baskerville Old Face;
+  line-height: 0.9em;
+  font-size: 1.3em;
+  background-color: #ffccff;
+  color: #3366ff;
+}
+h6 {
+  font-family: Cooper Black;
+  color: red;
+  font-size: 1.2em;
+}
+body {
+  background-color: #ffcc99;
+}
